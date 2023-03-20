@@ -1,0 +1,27 @@
+#root {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  cursor: pointer;
+}
+
+.App {
+  height: 100vh;
+}
+.circle {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background-color: orange;
+  transform: translate(-50%, -50%);
+}
+.remove {
+  position: absolute;
+  z-index: 2;
+}
+
+.redo {
+  position: absolute;
+  left:100px
+}
