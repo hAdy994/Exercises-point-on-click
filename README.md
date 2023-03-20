@@ -4,6 +4,14 @@ A bit of a challenge when it comes to states, but it was a good learning experie
 
 This is what it looks like:
 
+
+
+
 ![Screenshot (31)](https://user-images.githubusercontent.com/74817838/226374218-1a46bdc1-8751-4d73-b697-b55fe6ec2f42.png)
+
+
+
+
+
 
 Feel free to copy the code and use it in your projects. To edit the buttons go to the App.css file and edit it.
